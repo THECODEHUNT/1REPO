@@ -1,3 +1,3 @@
 # 1REPO
 This is my first repository.
-Author = PAWANPREET KAUR
+Author = PAWANPREET KAUR2000
